@@ -6,7 +6,7 @@ function getData() {
     let message = document.getElementById("message").value;
 
     if(name == "") {
-        alert("Type you're name!")
+        alert("Type out your name!")
     } else if(email == "") {
         alert("Input your email!")
     } else if(phone == "") {
